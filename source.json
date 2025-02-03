@@ -1,16 +1,42 @@
 [
-    {"question": "Quelle est votre activité préférée à faire ensemble ?"},
-    {"question": "Comment gérez-vous les conflits dans votre relation ?"},
-    {"question": "Quelle est la plus grande qualité que vous appréciez chez votre partenaire ?"},
-    {"question": "Aimez-vous les mêmes types de films et séries ?"},
-    {"question": "Comment décririez-vous une soirée idéale ensemble ?"},
-    {"question": "Quelle est la plus grande leçon que vous avez apprise en étant ensemble ?"},
-    {"question": "Si vous pouviez voyager n'importe où ensemble, où iriez-vous ?"},
-    {"question": "Avez-vous les mêmes valeurs en matière de famille et d’amitié ?"},
-    {"question": "Quelle est la chose la plus romantique que votre partenaire ait faite pour vous ?"},
-    {"question": "Comment célébrez-vous les anniversaires et les occasions spéciales ?"},
-    {"question": "Quelle est votre plus grande différence et comment la gérez-vous ?"},
-    {"question": "Quelles sont les petites habitudes de votre partenaire que vous adorez ?"},
-    {"question": "Comment imaginez-vous votre avenir ensemble dans 5 ans ?"},
-    {"question": "Quelle est la chanson qui décrit le mieux votre relation ?"}
+    {
+        "category": "Homme",
+        "questions": [
+            {
+                "question": "Qu'est-ce que vous appréciez le plus chez votre partenaire ?"
+            },
+            {
+                "question": "Comment aimez-vous exprimer votre affection ?"
+            },
+            {
+                "question": "Quelle est la chose qui vous touche le plus dans votre relation ?"
+            },
+            {
+                "question": "Quel rôle voulez-vous jouer dans la famille à l'avenir ?"
+            },
+            {
+                "question": "Que faites-vous pour maintenir la flamme dans votre relation ?"
+            }
+        ]
+    },
+    {
+        "category": "Femme",
+        "questions": [
+            {
+                "question": "Qu'est-ce qui vous fait vous sentir la plus aimée ?"
+            },
+            {
+                "question": "Comment montrez-vous votre soutien à votre partenaire ?"
+            },
+            {
+                "question": "Quelle qualité recherchez-vous le plus chez votre partenaire ?"
+            },
+            {
+                "question": "Qu'est-ce qui vous rend la plus heureuse dans votre relation ?"
+            },
+            {
+                "question": "Comment aimez-vous célébrer les petites victoires de votre couple ?"
+            }
+        ]
+    }
 ]
